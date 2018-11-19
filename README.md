@@ -13,5 +13,5 @@ Sharina Stubbs
 ## Acknowledgements:
 Many thanks to Burkhard Meier's class on Lynda.com, titled "Python Projects," for the inspiration and guidance.
 
-## App Preview
+## App Preview:
 ![screenshot of the weather app](https://res.cloudinary.com/dqyprvcqj/image/upload/v1541563421/weather_app_w79y5r.png)
